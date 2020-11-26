@@ -45,7 +45,6 @@ superagent
                     relatedArticle.push([prefix[0] + "//" + prefix[2] + url, title]);
                 }
                 data.push(element, title, author, postingDate, relatedArticle);
-                console.log(data);
             })
         });
     })

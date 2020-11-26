@@ -13,6 +13,7 @@ const prefix = splitted[0] + "//" + splitted[2];
 superagent
     .get(baseUrl)
     .then(res => {
+        let myArr = [];
         const $ = cheerio.load(res.text);
 
         $(".list-of-articles").each((i, el) => {
@@ -35,7 +36,7 @@ superagent
                             author,
                             postingDate,
                         }
-                        console.log(json)
+                        myArr.push(json);
                         // writeStream.write(JSON.stringify(json, null, "        "));
                         // writeStream.write(",\n");
 
@@ -45,7 +46,10 @@ superagent
             });
         });
 
-
+        return myArr;
+    })
+    .then(values => {
+        console.log(values)
     })
     .catch(err => {
         console.log('scraping error: ', err);
