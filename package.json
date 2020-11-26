@@ -1,20 +1,24 @@
 {
   "name": "scraper",
   "version": "1.0.0",
-  "description": "A web scraper for job interview at cermati.com",
+  "description": "a web scraper for job interview",
   "main": "solution.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denilson020898/scraper.git"
+  },
+  "keywords": [],
   "author": "Denilson",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denilson020898/scraper/issues"
+  },
+  "homepage": "https://github.com/denilson020898/scraper#readme",
   "dependencies": {
-    "axios": "^0.21.0",
-    "bluebird": "^3.7.2",
     "cheerio": "^1.0.0-rc.3",
-    "request": "^2.88.2",
-    "request-promise": "^4.2.6",
     "superagent": "^6.1.0"
   }
 }
