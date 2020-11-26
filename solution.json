@@ -1,122 +1,340 @@
 {
-  "articles": []
-}{
   "articles": [
     {
-      "url": "https://www.cermati.com/artikel/serbu-diskon-bbm-pertamina-beli-pertalite-harga-premium-ini-daftar-spbu-yang-jual",
-      "title": "Serbu Diskon BBM Pertamina, Beli Pertalite Harga Premium. Ini Daftar SPBU yang Jual",
+      "url": "https://www.cermati.com/artikel/suku-bunga-acuan-bi-turun-jadi-375-ngefek-gak-sih-ke-bunga-kredit-bank",
+      "title": "Suku Bunga Acuan BI Turun Jadi 3,75%, Ngefek Gak Sih ke Bunga Kredit Bank?",
       "author": "Fiki Ariyanti",
-      "postingDate": "25 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
-    {
-      "url": "https://www.cermati.com/artikel/bukan-korupsi-pns-bisa-kaya-raya-dengan-cara-ini",
-      "title": "Bukan Korupsi, PNS Bisa Kaya Raya dengan Cara Ini",
-      "author": "Fiki Ariyanti",
-      "postingDate": "24 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
-    {
-      "url": "https://www.cermati.com/artikel/apa-itu-kitas-jenis-kegunaan-dan-dasar-hukumnya",
-      "title": "Apa Itu KITAS, Jenis, Kegunaan, dan Dasar Hukumnya",
-      "author": "Irene Radius Saretta",
-      "postingDate": "24 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
-    {
-      "url": "https://www.cermati.com/artikel/mau-sukses-ubah-hobi-tanaman-hias-jadi-duit-perhatikan-7-cara-manjur-ini",
-      "title": "Mau Sukses Ubah Hobi Tanaman Hias Jadi Duit? Perhatikan 7 Cara Manjur Ini",
-      "author": "Siti Hadijah",
-      "postingDate": "24 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
-    {
-      "url": "https://www.cermati.com/artikel/sukses-di-layar-lebar-begini-kisah-hidup-keanu-reeves-yang-sedih-dan-mengharukan",
-      "title": "Sukses di Layar Lebar, Begini Kisah Hidup Keanu Reeves yang Sedih dan Mengharukan",
-      "author": "Irene Radius Saretta",
-      "postingDate": "25 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
-    {
-      "url": "https://www.cermati.com/artikel/cara-mengaktifkan-two-factor-authentication-fitur-pengaman-ganda-anti-serangan-hacker",
-      "title": "Cara Mengaktifkan Two Factor Authentication, Fitur Pengaman Ganda Anti Serangan Hacker",
-      "author": "Fiki Ariyanti",
-      "postingDate": "4 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
-    {
-      "url": "https://www.cermati.com/artikel/tinggalkan-6-hal-ini-untuk-hidup-dan-bisnis-yang-lebih-baik",
-      "title": "Tinggalkan 6 Hal Ini untuk Hidup dan Bisnis yang Lebih Baik",
-      "author": "Aufi Ramadhania Pasha",
-      "postingDate": "25 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
-    {
-      "url": "https://www.cermati.com/artikel/serem-begini-5-teknik-penipuan-social-engineering-yang-bisa-bikin-melarat",
-      "title": "Serem! Begini 5 Teknik Penipuan Social Engineering yang Bisa Bikin Melarat",
-      "author": "Siti Hadijah",
-      "postingDate": "12 Oktober 2020"
-    }
-  ]
-},
-{
-  "articles": [
+      "postingDate": "23 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/serbu-diskon-bbm-pertamina-beli-pertalite-harga-premium-ini-daftar-spbu-yang-jual",
+          "title": "Serbu Diskon BBM Pertamina, Beli Pertalite Harga Premium. Ini Daftar SPBU yang Jual"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/6-fakta-menarik-vaksin-moderna-ampuh-94-cegah-virus-covid-19",
+          "title": "6 Fakta Menarik Vaksin Moderna, Ampuh 94% Cegah Virus Covid-19"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/ada-npwp-elektronik-kini-urus-npwp-rusak-atau-hilang-gak-perlu-ke-kantor-pajak-lagi",
+          "title": "Ada NPWP Elektronik, Kini Urus NPWP Rusak atau Hilang Gak Perlu ke Kantor Pajak Lagi"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/survei-apjii-mayoritas-orang-ri-merasa-data-pribadinya-di-internet-aman",
+          "title": "Survei APJII: Mayoritas Orang RI Merasa Data Pribadinya di Internet Aman"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/diklaim-efektif-90-cegah-covid-19-ini-fakta-menarik-vaksin-pfizer",
+          "title": "Diklaim Efektif 90% Cegah Covid-19, Ini Fakta Menarik Vaksin Pfizer"
+        }
+      ]
+    },
     {
       "url": "https://www.cermati.com/artikel/waspadai-modus-penipuan-mengatasnamakan-bank-dan-tips-menghindarinya",
       "title": "Waspadai Modus Penipuan Mengatasnamakan Bank dan Tips Menghindarinya",
       "author": "Siti Hadijah",
-      "postingDate": "5 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
+      "postingDate": "5 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/kenali-10-faktor-yang-menghambat-seseorang-menjadi-kaya",
+          "title": "Kenali 10 Faktor yang Menghambat Seseorang Menjadi Kaya"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/7-ide-souvenir-pernikahan-yang-unik-dan-murah",
+          "title": "7 Ide Souvenir Pernikahan yang Unik dan Murah"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/punya-banyak-anak-anda-harus-pintar-mengatur-keuangan-begini-caranya",
+          "title": "Punya Banyak Anak? Anda Harus Pintar Mengatur Keuangan. Begini Caranya"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/5-pemborosan-yang-kerap-dilakukan-para-milenial",
+          "title": "5 Pemborosan yang Kerap Dilakukan para Milenial"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/jadi-orang-kaya-raya-bukan-mustahil-asal-pakai-cara-ini",
+          "title": "Jadi Orang Kaya Raya Bukan Mustahil asal Pakai Cara Ini"
+        }
+      ]
+    },
     {
-      "url": "https://www.cermati.com/artikel/tips-cari-kerja-di-tengah-resesi-untuk-fresh-graduate-dan-karyawan-terdampak-covid-19",
-      "title": "Tips Cari Kerja di Tengah Resesi untuk Fresh Graduate dan Karyawan Terdampak Covid-19",
+      "url": "https://www.cermati.com/artikel/cara-mengaktifkan-two-factor-authentication-fitur-pengaman-ganda-anti-serangan-hacker",
+      "title": "Cara Mengaktifkan Two Factor Authentication, Fitur Pengaman Ganda Anti Serangan Hacker",
+      "author": "Fiki Ariyanti",
+      "postingDate": "4 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/pentingnya-pendelegasian-tugas-di-sebuah-perusahaan",
+          "title": "Pentingnya Pendelegasian Tugas di Sebuah Perusahaan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/apa-itu-kitas-jenis-kegunaan-dan-dasar-hukumnya",
+          "title": "Apa Itu KITAS, Jenis, Kegunaan, dan Dasar Hukumnya"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/survei-apjii-mayoritas-orang-ri-merasa-data-pribadinya-di-internet-aman",
+          "title": "Survei APJII: Mayoritas Orang RI Merasa Data Pribadinya di Internet Aman"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/prinsip-ekonomi-manfaat-dan-contohnya-di-kehidupan-sehari-hari",
+          "title": "Prinsip Ekonomi, Manfaat dan Contohnya di Kehidupan Sehari-hari"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/yield-definisi-dan-jenis-jenisnya",
+          "title": "Yield, Definisi dan Jenis-Jenisnya"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cermati.com/artikel/serem-begini-5-teknik-penipuan-social-engineering-yang-bisa-bikin-melarat",
+      "title": "Serem! Begini 5 Teknik Penipuan Social Engineering yang Bisa Bikin Melarat",
       "author": "Siti Hadijah",
-      "postingDate": "13 November 2020"
-    }
-  ]
-},
-{
-  "articles": [
+      "postingDate": "12 Oktober 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/pentingnya-pendelegasian-tugas-di-sebuah-perusahaan",
+          "title": "Pentingnya Pendelegasian Tugas di Sebuah Perusahaan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/apa-itu-kitas-jenis-kegunaan-dan-dasar-hukumnya",
+          "title": "Apa Itu KITAS, Jenis, Kegunaan, dan Dasar Hukumnya"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/prinsip-ekonomi-manfaat-dan-contohnya-di-kehidupan-sehari-hari",
+          "title": "Prinsip Ekonomi, Manfaat dan Contohnya di Kehidupan Sehari-hari"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/sering-bertransaksi-online-simak-tips-aman-transaksi-internet-banking",
+          "title": "Sering Bertransaksi Online? Simak Tips Aman Transaksi Internet Banking"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/yield-definisi-dan-jenis-jenisnya",
+          "title": "Yield, Definisi dan Jenis-Jenisnya"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cermati.com/artikel/reksadana-pilihan-investasi-yang-cocok-di-masa-pandemi",
+      "title": "Reksadana, Pilihan Investasi yang Cocok di Masa Pandemi",
+      "author": "Fiki Ariyanti",
+      "postingDate": "26 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/survei-bi-masyarakat-berencana-ajukan-kpr-dan-kredit-kendaraan-setelah-pandemi",
+          "title": "Survei BI: Masyarakat Berencana Ajukan KPR dan Kredit Kendaraan Setelah Pandemi"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/bukan-korupsi-pns-bisa-kaya-raya-dengan-cara-ini",
+          "title": "Bukan Korupsi, PNS Bisa Kaya Raya dengan Cara Ini"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/investasi-jangan-pakai-emosi-begini-tips-menghindarinya-agar-tak-salah-langkah",
+          "title": "Investasi Jangan Pakai Emosi. Begini Tips Menghindarinya agar Tak Salah Langkah"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/tips-memulai-investasi-rumah-kontrakan",
+          "title": "Tips Memulai Investasi Rumah Kontrakan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/investor-wajib-tahu-5-investasi-ini-bisa-cuan-dengan-cara-metode-lump-sum",
+          "title": "Investor Wajib Tahu 5 Investasi Ini Bisa Cuan dengan Cara Metode Lump Sum"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cermati.com/artikel/review-spesifikasi-dan-harga-vivo-v19",
+      "title": "Review, Spesifikasi, dan Harga Vivo V19",
+      "author": "Irene Radius Saretta",
+      "postingDate": "26 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/review-spesifikasi-dan-harga-redmi-9a",
+          "title": "Review, Spesifikasi, dan Harga Redmi 9A"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/review-spesifikasi-dan-harga-redmi-9c",
+          "title": "Review, Spesifikasi, dan Harga Redmi 9C"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/review-spesifikasi-dan-harga-realme-c15",
+          "title": "Review, Spesifikasi, dan Harga Realme C15"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/review-spesifikasi-dan-harga-samsung-galaxy-a11",
+          "title": "Review, Spesifikasi, dan Harga Samsung Galaxy A11"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/review-spesifikasi-dan-harga-samsung-galaxy-a21s",
+          "title": "Review, Spesifikasi, dan Harga Samsung Galaxy A21s"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cermati.com/artikel/survei-bi-masyarakat-berencana-ajukan-kpr-dan-kredit-kendaraan-setelah-pandemi",
+      "title": "Survei BI: Masyarakat Berencana Ajukan KPR dan Kredit Kendaraan Setelah Pandemi",
+      "author": "Fiki Ariyanti",
+      "postingDate": "26 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/reksadana-pilihan-investasi-yang-cocok-di-masa-pandemi",
+          "title": "Reksadana, Pilihan Investasi yang Cocok di Masa Pandemi"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/jualan-properti-sepi-akibat-pandemi-pakai-cara-ini-biar-cepat-laku",
+          "title": "Jualan Properti Sepi Akibat Pandemi? Pakai Cara Ini Biar Cepat Laku"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/melunasi-kpr-lebih-cepat-bisa-bikin-anda-buntung-kok-bisa",
+          "title": "Melunasi KPR Lebih Cepat Bisa Bikin Anda Buntung, Kok Bisa?"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/bak-malaikat-peran-fintech-sanggup-redam-dampak-covid-19",
+          "title": "Bak Malaikat, Peran Fintech Sanggup Redam Dampak Covid-19"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/4-tips-minta-diskon-harga-rumah-ke-pengembang",
+          "title": "4 Tips Minta Diskon Harga Rumah ke Pengembang"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cermati.com/artikel/biar-cepat-dapat-kerja-yuk-kenali-diri-dan-latihan-tes-kepribadian-lewat-15-situs-ini",
+      "title": "Biar Cepat Dapat Kerja, Yuk Kenali Diri dan Latihan Tes Kepribadian Lewat 15 Situs Ini",
+      "author": "Aufi Ramadhania Pasha",
+      "postingDate": "25 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/4-kriteria-fresh-graduate-yang-dicari-perusahaan",
+          "title": "4 Kriteria Fresh Graduate yang Dicari Perusahaan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/deretan-drama-korea-yang-bisa-dijadikan-inspirasi-temukan-karir-impian",
+          "title": "Deretan Drama Korea yang Bisa Dijadikan Inspirasi Temukan Karir Impian"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/jangan-berkecil-hati-begini-cara-menghadapi-feedback-negatif-dari-orang-lain",
+          "title": "Jangan Berkecil Hati, Begini Cara Menghadapi Feedback Negatif dari Orang Lain"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/ingin-buat-hrd-terkesan-saat-wawancara-kerja-begini-tipsnya",
+          "title": "Ingin Buat HRD Terkesan Saat Wawancara Kerja? Begini Tipsnya"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/tips-cari-kerja-di-tengah-resesi-untuk-fresh-graduate-dan-karyawan-terdampak-covid-19",
+          "title": "Tips Cari Kerja di Tengah Resesi untuk Fresh Graduate dan Karyawan Terdampak Covid-19"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cermati.com/artikel/inilah-orang-orang-terkaya-di-dunia-siapa-inspirasimu",
+      "title": "Inilah Orang-Orang Terkaya di Dunia, Siapa Inspirasimu?",
+      "author": "Siti Hadijah",
+      "postingDate": "25 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/sukses-di-layar-lebar-begini-kisah-hidup-keanu-reeves-yang-sedih-dan-mengharukan",
+          "title": "Sukses di Layar Lebar, Begini Kisah Hidup Keanu Reeves yang Sedih dan Mengharukan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/kisah-sukses-ariana-grande-diva-dengan-honor-termahal-dunia-yang-pernah-kena-bully",
+          "title": "Kisah Sukses Ariana Grande, Diva dengan Honor Termahal Dunia yang Pernah Kena Bully"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/menilik-karier-tom-holland-spider-man-terkeren-yang-pernah-dibully-karena-hobi-menari",
+          "title": "Menilik Karier Tom Holland, Spider-Man Terkeren yang Pernah Dibully Karena Hobi Menari"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/pernah-lebih-prioritaskan-syuting-ketimbang-kuliah-begini-kiprah-gista-putri-di-industri-hiburan",
+          "title": "Pernah Lebih Prioritaskan Syuting Ketimbang Kuliah, Begini Kiprah Gista Putri di Industri Hiburan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/jadi-orang-kaya-raya-bukan-mustahil-asal-pakai-cara-ini",
+          "title": "Jadi Orang Kaya Raya Bukan Mustahil asal Pakai Cara Ini"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cermati.com/artikel/jualan-properti-sepi-akibat-pandemi-pakai-cara-ini-biar-cepat-laku",
+      "title": "Jualan Properti Sepi Akibat Pandemi? Pakai Cara Ini Biar Cepat Laku",
+      "author": "Fiki Ariyanti",
+      "postingDate": "25 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/survei-bi-masyarakat-berencana-ajukan-kpr-dan-kredit-kendaraan-setelah-pandemi",
+          "title": "Survei BI: Masyarakat Berencana Ajukan KPR dan Kredit Kendaraan Setelah Pandemi"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/melunasi-kpr-lebih-cepat-bisa-bikin-anda-buntung-kok-bisa",
+          "title": "Melunasi KPR Lebih Cepat Bisa Bikin Anda Buntung, Kok Bisa?"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/tips-memulai-investasi-rumah-kontrakan",
+          "title": "Tips Memulai Investasi Rumah Kontrakan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/11-jenis-investasi-terbaik-saat-anda-menjadi-karyawan",
+          "title": "11 Jenis Investasi Terbaik Saat Anda Menjadi Karyawan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/4-tips-minta-diskon-harga-rumah-ke-pengembang",
+          "title": "4 Tips Minta Diskon Harga Rumah ke Pengembang"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cermati.com/artikel/kenali-10-faktor-yang-menghambat-seseorang-menjadi-kaya",
+      "title": "Kenali 10 Faktor yang Menghambat Seseorang Menjadi Kaya",
+      "author": "Siti Hadijah",
+      "postingDate": "25 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/7-ide-souvenir-pernikahan-yang-unik-dan-murah",
+          "title": "7 Ide Souvenir Pernikahan yang Unik dan Murah"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/punya-banyak-anak-anda-harus-pintar-mengatur-keuangan-begini-caranya",
+          "title": "Punya Banyak Anak? Anda Harus Pintar Mengatur Keuangan. Begini Caranya"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/5-pemborosan-yang-kerap-dilakukan-para-milenial",
+          "title": "5 Pemborosan yang Kerap Dilakukan para Milenial"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/jadi-orang-kaya-raya-bukan-mustahil-asal-pakai-cara-ini",
+          "title": "Jadi Orang Kaya Raya Bukan Mustahil asal Pakai Cara Ini"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/8-pos-keuangan-ini-wajib-dialokasikan-agar-finansial-rumah-tangga-ideal",
+          "title": "8 Pos Keuangan Ini Wajib Dialokasikan Agar Finansial Rumah Tangga Ideal"
+        }
+      ]
+    },
     {
       "url": "https://www.cermati.com/artikel/pentingnya-pendelegasian-tugas-di-sebuah-perusahaan",
       "title": "Pentingnya Pendelegasian Tugas di Sebuah Perusahaan",
       "author": "Irene Radius Saretta",
-      "postingDate": "25 November 2020"
+      "postingDate": "25 November 2020",
+      "relatedArticles": [
+        {
+          "url": "https://www.cermati.com/artikel/apa-itu-kitas-jenis-kegunaan-dan-dasar-hukumnya",
+          "title": "Apa Itu KITAS, Jenis, Kegunaan, dan Dasar Hukumnya"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/4-kriteria-fresh-graduate-yang-dicari-perusahaan",
+          "title": "4 Kriteria Fresh Graduate yang Dicari Perusahaan"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/prinsip-ekonomi-manfaat-dan-contohnya-di-kehidupan-sehari-hari",
+          "title": "Prinsip Ekonomi, Manfaat dan Contohnya di Kehidupan Sehari-hari"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/yield-definisi-dan-jenis-jenisnya",
+          "title": "Yield, Definisi dan Jenis-Jenisnya"
+        },
+        {
+          "url": "https://www.cermati.com/artikel/ukur-depresiasi-sebuah-aset-dengan-beberapa-metode-ini",
+          "title": "Ukur Depresiasi Sebuah Aset dengan Beberapa Metode Ini"
+        }
+      ]
     }
   ]
-},
-{
-  "articles": [
-    {
-      "url": "https://www.cermati.com/artikel/7-langkah-cerdas-menerapkan-digital-marketing-dalam-bisnis",
-      "title": "7 Langkah Cerdas Menerapkan Digital Marketing dalam Bisnis",
-      "author": "Aufi Ramadhania Pasha",
-      "postingDate": "24 November 2020"
-    }
-  ]
-},
+}

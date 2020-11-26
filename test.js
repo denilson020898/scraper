@@ -1,8 +1,6 @@
 const cheerio = require('cheerio');
-const { saveCookies } = require('superagent');
 const superagent = require('superagent');
-// const fs = require('fs');
-// const writeStream = fs.createWriteStream("solution.json");
+const fs = require('fs');
 
 const baseUrl = "https://www.cermati.com/artikel";
 let splitted = baseUrl.split("/");
@@ -13,7 +11,6 @@ superagent
     .get(baseUrl)
     .then(res => {
         const $ = cheerio.load(res.text);
-        console.log(1)
         let articleUrls = [];
 
         $(".list-of-articles").each((i, el) => {
@@ -39,14 +36,30 @@ superagent
             const author = $(".author-name").text().trim();
             const postingDate = $(".post-date").text().trim();
 
+            var relatedArticles = [];
+
+            $(".panel-header:contains('Artikel Terkait')").next().each((i, el) => {
+                $(el).find("li").each((i, el) => {
+                    const url = (prefix + $(el).find("a").attr("href").trim()).trim();
+                    const title = $(el).find(".item-title").text().trim()
+
+                    let relatedData = {
+                        url,
+                        title
+                    }
+                    relatedArticles.push(relatedData)
+                });
+            });
+
 
             let jsonData = {
                 url,
                 title,
                 author,
-                postingDate
+                postingDate,
+                relatedArticles
             };
-            jsonDataList.push(jsonData)
+            jsonDataList.push(jsonData);
         }
         return jsonDataList
     })
@@ -54,11 +67,13 @@ superagent
         var scrapedData = {
             articles: []
         };
-        for (const value in values) {
-            console.log(value)
+        for (const value of values) {
             scrapedData.articles.push(value)
         }
-        console.log(2)
+        return scrapedData;
+    })
+    .then(data => {
+        fs.writeFileSync("solution.json", JSON.stringify(data, null, "  "));
     })
     .catch(err => {
         console.log("scraping error: ", err);
