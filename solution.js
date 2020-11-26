@@ -1,7 +1,6 @@
-const Promise = require("bluebird");
 const cheerio = require('cheerio');
 const superagent = require('superagent');
-const fs = Promise.promisifyAll(require('fs'));
+const fs = require('fs');
 
 const baseUrl = "https://www.cermati.com/artikel";
 let splitted = baseUrl.split("/");
